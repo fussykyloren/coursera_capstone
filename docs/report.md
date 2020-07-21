@@ -13,31 +13,34 @@ The top 100 venues will be grabbed for each of the 5 cities and plotted. Lastly,
 ## Results
 ### Without Mean Data
 The first section of images are geoplot generated with folium without mean distances calculated.
-New York, NY:
+
+#### New York, NY:
 ![](ny_initial.png)
-Newark, NJ:
+
+#### Newark, NJ:
 ![](newark_initial.png)
-Boston, MA:
+#### Boston, MA:
 ![](boston_initial.png)
-Washington, D.C.:
+#### Washington, D.C.:
 ![](washington_dc_initial.png)
-Baltimore, MD:
+#### Baltimore, MD:
 ![](baltimore_initial.png)
 ### With Mean Data
 This second section of images takes the previous data and add the mean distance on top of the graph.
-New York, NY:
+
+#### New York, NY:
 0.03233821025887633
 ![](ny_mean.png)
-Newark, NJ:
+#### Newark, NJ:
 0.022351513002362686
 ![](newark_mean.png)
-Boston, MA:
+#### Boston, MA:
 0.0330119757311136
 ![](boston_mean.png)
-Washington, D.C.:
+#### Washington, D.C.:
 0.029231510291240895
 ![](wasington_dc_mean.png)
-Baltimore, MD:
+#### Baltimore, MD:
 0.05517107634421137
 ![](baltimore_mean.png)
 ## Analysis
