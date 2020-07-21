@@ -64,7 +64,7 @@ This second section of images takes the previous data and add the mean distance 
 ![](baltimore_mean.png)
 ## Analysis
 Surprisingly, even though having the fewest number of fried chicken restaurants, Newark is the best place to go on this adventure. One would expect that since Newark has one of the 3 largest airports in the New York metropolitan area, a majority of the restaurants would be in the airport. Looking furher into this analysis, only one restaurant is actually in the airport (World Fried Chicken) strengthening Newark's position.
-One curious observation is that the mean distance for Philadelphia is quite high. The comparison between Baltimore and the other cities is below.
+One curious observation is that the mean distance for Baltimore is quite high. The comparison between Baltimore and the other cities is below.
 ```
 for city in cities[0:4]:
     title_string = city + " -> " + cities[4]
@@ -80,8 +80,8 @@ Boston, MA -> Baltimore, MD
 Washington D.C. -> Baltimore, MD
 0.025939566052970472
 ```
-The above analysis shows that there is a difference in mean distance between Baltimore and the other cities of a mininum of two tenths of a mile, further confirming that Baltimore is 5th on the list.
-Another observation is that New York, Boston and Washington D.C. have a very small difference in the mean distance. The previous maps show that the aforementioned cities have outlier cities, most likely skewing the data. To better determine the next best city to go to for the fried chicken adventure, the first, two and five largest distances are excluded from the data and a new mean is calculated. This analysis is conducted below.
+The above analysis shows that there is a difference in mean distance between Baltimore and the other cities of a minimum of two tenths of a mile, further confirming that Baltimore is 5th on the list.
+Another observation is that New York, Boston and Washington D.C. have a very small difference in the mean distance. The previous maps show that the aforementioned cities have outlier cities, most likely skewing the data. To better determine the next best city to go to for the fried chicken adventure, the first, two, five and ten largest distances are excluded from the data and a new mean is calculated. This analysis is conducted below.
 ```
 print("Excluding INSERT_NUMBER Largest:")
 for i in range(0,4):
