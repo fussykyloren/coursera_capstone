@@ -4,8 +4,20 @@
 * [Data](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#data)
 * [Project Methodology](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#project-methodology)
 * [Results](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#results)
-    * [Without Mean Data](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#without-mean-data)
-        * [New York, NY](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#new-york-ny)
+   * [Without Mean Data](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#without-mean-data)
+      * [New York, NY](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#new-york-ny)
+      * [Newark, NJ](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#newark-nj)
+      * [Boston, MA](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#boston-ma)
+      * [Washington, D.C.](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#washington-dc)
+      * [Baltimore, MD](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#baltimore-md)
+   * [With Mean Data](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#with-mean-data)
+      * [New York, NY](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#new-york-ny-1)
+      * [Newark, NJ](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#newark-nj-1)
+      * [Boston, MA](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#boston-ma-1)
+      * [Washington, D.C.](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#washington-dc-1)
+      * [Baltimore, MD](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#baltimore-md-1)
+* [Analysis](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#analysis)
+* [Final Results](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#final-results)
 ## Problem Background
 As someone from Oklahoma, I have been raised on a steady diet of fried chicken (stereotypical but very true). For people like me, when traveling, I like to taste the various different flavors of fried chicken that different parts of the US have to have offer. The issue? Our traveler has not been to the NE so they are not sure the best cities to get a taste are.
 ## Data
@@ -46,7 +58,7 @@ This second section of images takes the previous data and add the mean distance 
 ![](boston_mean.png)
 #### Washington, D.C.:
 0.029231510291240895
-![](wasington_dc_mean.png)
+![](washington_dc_mean.png)
 #### Baltimore, MD:
 0.05517107634421137
 ![](baltimore_mean.png)
