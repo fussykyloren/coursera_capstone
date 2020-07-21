@@ -1,2 +1,5 @@
 # Coursera IBM Applied Data Science Capstone
-This repository is for the IBM Data Science Professional Certificate capstone project.
+_This repository is for the IBM Data Science Professional Certificate capstone project._
+
+[Final Project Report]()
+[Final Project Notebook](https://fussykyloren.github.io/coursera_capstone/index.html)
