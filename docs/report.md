@@ -95,9 +95,11 @@ for i in range(0,4):
         print(np.mean(dists[:-1])) #Ignore the INSERT_NUMBER largest distances
 ```
 After analysis, Boston is the next best city to visit followed by New York and and Washington D.C. It should be noted that excluding just one distance would make New York the next best city. However, excluding the top two, five and ten largest yield consistent results.
-## Final Results
+## Final Results and Future Analysis
 1. Newark, NJ
 2. Boston, MA
 3. New York, NY
 4. Washington, D.C.
 5. Baltimore, MD
+
+For a person wishing to go to the east coast for a fried chicken adventure, Newark presents the best option, as the mean distance between each restaurant is the smallest. In future analyses, one should find the closest hotel to all of the restaurants and use this as the center point. Also, looking into and removing all duplicate restaurants would be another good next step.
