@@ -1,4 +1,11 @@
 # Coursera Capstone Final Report
+# Table of Contents
+* [Problem Background](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#problem-background)
+* [Data](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#data)
+* [Project Methodology](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#project-methodology)
+* [Results](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#results)
+    * [Without Mean Data](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#without-mean-data)
+        * [New York, NY](https://github.com/fussykyloren/coursera_capstone/blob/master/docs/report.md#new-york-ny)
 ## Problem Background
 As someone from Oklahoma, I have been raised on a steady diet of fried chicken (stereotypical but very true). For people like me, when traveling, I like to taste the various different flavors of fried chicken that different parts of the US have to have offer. The issue? Our traveler has not been to the NE so they are not sure the best cities to get a taste are.
 ## Data
