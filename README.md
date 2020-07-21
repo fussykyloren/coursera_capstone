@@ -5,4 +5,4 @@ _This repository is for the IBM Data Science Professional Certificate capstone p
 
 [Final Project Notebook](https://fussykyloren.github.io/coursera_capstone/index.html)
 
-[Final Presentation](https://docs.google.com/presentation/d/1ZnLst6ej4zGCYzPoz-dD_PESmuZyg-MOEQGxn0F39s8/edit?usp=sharing).
+[Final Presentation](https://docs.google.com/presentation/d/1ZnLst6ej4zGCYzPoz-dD_PESmuZyg-MOEQGxn0F39s8/edit?usp=sharing)
